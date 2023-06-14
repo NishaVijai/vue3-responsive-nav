@@ -88,7 +88,13 @@ export default {
   .hero {
     width: 100%;
     height: 100vh;
-    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png) #000;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(100, 121, 9, 1) 35%,
+      rgba(0, 212, 255, 1) 100%
+    );
 
     img {
       object-fit: cover;
