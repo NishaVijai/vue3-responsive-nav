@@ -34,7 +34,8 @@ body {
 .app {
   min-height: 100vh;
   position: relative;
-  background-color: #f1f1f1;
+  background-color: rgb(62, 61, 61);
+  color: #fff;
 }
 
 .container {
