@@ -199,7 +199,7 @@ header {
       width: 100%;
       max-width: 250px;
       height: 100%;
-      background-color: #fff;
+      background-color: rgb(211, 209, 209);
       top: 0;
       left: 0;
       padding-top: 4rem;
